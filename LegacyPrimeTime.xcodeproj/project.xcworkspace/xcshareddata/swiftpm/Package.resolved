@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Overture",
+        "repositoryURL": "https://github.com/pointfreeco/swift-overture.git",
+        "state": {
+          "branch": "master",
+          "revision": "b7a28fad5f750cdae6b8e70d701c19a0d7251010",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
